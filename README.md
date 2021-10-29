@@ -1,5 +1,9 @@
 # US_home_price_pred
 
+Combined all the data in preparing_data.ipynb notebook  
+created model in the main.ipynb notebook  
+Explored important features in the imp_features.ipynb notebook 
+
 Developed a neural network model with three hidden layers and R2 score of 0.90.
 
 For this model 12 features were selected viz. employment percentage,GDP,FDI,delinquency rate(Delinquency Rate on Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets ),	Per capita income, Stock market (DJAI Closing price), Federal gov. spending,	HAI,	Inflation Value,30yr average mortgage rate,	PERMIT,	Crime rate.

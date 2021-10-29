@@ -13,4 +13,4 @@ Using Shap on the model following features were found to have affected the most:
 6.Permits  
 7.Mortgage rate  
 
-MECE model:https://drive.google.com/file/d/1vuoFK8POekZjbCjgc-X89rHbpktjpeDu/view
+MECE model:https://drive.google.com/file/d/1vuoFK8POekZjbCjgc-X89rHbpktjpeDu/view?usp=sharing

@@ -1,8 +1,8 @@
 # US_home_price_pred
 
-Combined all the data in preparing_data.ipynb notebook  
-created model in the main.ipynb notebook  
-Explored important features in the imp_features.ipynb notebook 
+1.Combined all the data in preparing_data.ipynb notebook  
+2.created model in the main.ipynb notebook  
+3.Explored important features in the imp_features.ipynb notebook 
 
 Developed a neural network model with three hidden layers and R2 score of 0.90.
 
